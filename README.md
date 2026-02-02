@@ -1,7 +1,7 @@
 # About me
 
 **Name:** Yanfang Liu
-**Program:** Data Science Course, MTSU
+**Program:** Data Science, MTSU
 **Expected Gradution:** Spring 2026
 
 ## Interests:
